@@ -1,0 +1,23 @@
+name: Jerusalem
+favicon: null
+layout_spectrum: 0.21503418311476707
+typography_spectrum: 0.25954641005955637
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9066278238315135
+  lightness: 0.7809837250970304
+  saturation: 0.9167147686239332
+  rhythmicContrast: 0.6713137573096901
+purpose: []
